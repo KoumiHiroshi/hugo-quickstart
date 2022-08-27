@@ -1,4 +1,12 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
-languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
-theme = 'netlify-basic'
+baseURL = 'https://main.d6cqd73wjarhj.amplifyapp.com/'
+languageCode = 'ja-JP'
+paginate = "10" # Number of posts per page
+title = 'Muichimotsu'
+theme = 'mainroad'
+disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+[Author]
+name = "Hiropon"
+
+[Params]
