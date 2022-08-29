@@ -1,0 +1,44 @@
+body, .header, .wrapper{
+    background: #131516
+}
+
+h1, h2, h3, h4, h5, h6, p, body, .logo__title{
+    color: #e8e6e3
+}
+
+figcaption, a{
+    color: #d8d4cf
+}
+
+.widget-search__form{
+    background-color: #1e2021;
+}
+.widget-search__field{
+    background-color: #181a1b;
+    color: #d8d4cf
+}
+
+p {
+    margin: 0.25rem auto 0.5rem auto;
+}
+
+h2 {
+    margin: 1rem auto 0.25rem auto;
+    padding: 0.4em 0 0.4em 1em;
+    background: radial-gradient(ellipse farthest-corner at 50% 10%, #304050, #2c3a44 50%, #202c30 80%, #162024);
+    border-left: solid;
+    border-color: #678;
+}
+
+p + a img, p + h2{
+    margin: 3rem auto 0.5rem auto;
+}
+
+img {
+    margin: 0.5rem auto
+}
+
+h2.list__title{
+    background: none;
+    border-left: none;
+}
