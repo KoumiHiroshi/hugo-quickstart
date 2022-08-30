@@ -1,5 +1,5 @@
 body, .header, .wrapper{
-    background: #131516
+    background: #131516;
 }
 
 h1, h2, h3, h4, h5, h6, p, body, .logo__title{
@@ -20,6 +20,7 @@ figcaption, a{
 
 p {
     margin: 0.25rem auto 0.5rem auto;
+    font-size: 1rem;
 }
 
 h2 {
