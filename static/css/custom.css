@@ -43,3 +43,7 @@ h2.list__title{
     background: none;
     border-left: none;
 }
+
+pre, code{
+    border: 1px solid #678
+}
