@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Muichimotsu</title>
+    <link>https://main.d6cqd73wjarhj.amplifyapp.com/tags/</link>
+    <description>Recent content in Tags on Muichimotsu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 07 Sep 2022 08:57:29 +0900</lastBuildDate><atom:link href="https://main.d6cqd73wjarhj.amplifyapp.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ADV</title>
+      <link>https://main.d6cqd73wjarhj.amplifyapp.com/tags/adv/</link>
+      <pubDate>Wed, 07 Sep 2022 08:57:29 +0900</pubDate>
+      
+      <guid>https://main.d6cqd73wjarhj.amplifyapp.com/tags/adv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Point &amp; Click</title>
+      <link>https://main.d6cqd73wjarhj.amplifyapp.com/tags/point-click/</link>
+      <pubDate>Wed, 07 Sep 2022 08:57:29 +0900</pubDate>
+      
+      <guid>https://main.d6cqd73wjarhj.amplifyapp.com/tags/point-click/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>プレイ日記</title>
+      <link>https://main.d6cqd73wjarhj.amplifyapp.com/tags/%E3%83%97%E3%83%AC%E3%82%A4%E6%97%A5%E8%A8%98/</link>
+      <pubDate>Wed, 07 Sep 2022 08:57:29 +0900</pubDate>
+      
+      <guid>https://main.d6cqd73wjarhj.amplifyapp.com/tags/%E3%83%97%E3%83%AC%E3%82%A4%E6%97%A5%E8%A8%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disqus</title>
+      <link>https://main.d6cqd73wjarhj.amplifyapp.com/tags/disqus/</link>
+      <pubDate>Wed, 31 Aug 2022 08:37:29 +0900</pubDate>
+      
+      <guid>https://main.d6cqd73wjarhj.amplifyapp.com/tags/disqus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://main.d6cqd73wjarhj.amplifyapp.com/tags/hugo/</link>
+      <pubDate>Wed, 31 Aug 2022 08:37:29 +0900</pubDate>
+      
+      <guid>https://main.d6cqd73wjarhj.amplifyapp.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amplify</title>
+      <link>https://main.d6cqd73wjarhj.amplifyapp.com/tags/amplify/</link>
+      <pubDate>Tue, 30 Aug 2022 20:15:29 +0900</pubDate>
+      
+      <guid>https://main.d6cqd73wjarhj.amplifyapp.com/tags/amplify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AWS</title>
+      <link>https://main.d6cqd73wjarhj.amplifyapp.com/tags/aws/</link>
+      <pubDate>Tue, 30 Aug 2022 20:15:29 +0900</pubDate>
+      
+      <guid>https://main.d6cqd73wjarhj.amplifyapp.com/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Route 53</title>
+      <link>https://main.d6cqd73wjarhj.amplifyapp.com/tags/route-53/</link>
+      <pubDate>Tue, 30 Aug 2022 20:15:29 +0900</pubDate>
+      
+      <guid>https://main.d6cqd73wjarhj.amplifyapp.com/tags/route-53/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

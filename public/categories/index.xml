@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Muichimotsu</title>
+    <link>https://main.d6cqd73wjarhj.amplifyapp.com/categories/</link>
+    <description>Recent content in Categories on Muichimotsu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 07 Sep 2022 08:57:29 +0900</lastBuildDate><atom:link href="https://main.d6cqd73wjarhj.amplifyapp.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disco Elysium</title>
+      <link>https://main.d6cqd73wjarhj.amplifyapp.com/categories/disco-elysium/</link>
+      <pubDate>Wed, 07 Sep 2022 08:57:29 +0900</pubDate>
+      
+      <guid>https://main.d6cqd73wjarhj.amplifyapp.com/categories/disco-elysium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://main.d6cqd73wjarhj.amplifyapp.com/categories/hugo/</link>
+      <pubDate>Wed, 31 Aug 2022 08:37:29 +0900</pubDate>
+      
+      <guid>https://main.d6cqd73wjarhj.amplifyapp.com/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AWS</title>
+      <link>https://main.d6cqd73wjarhj.amplifyapp.com/categories/aws/</link>
+      <pubDate>Tue, 30 Aug 2022 20:15:29 +0900</pubDate>
+      
+      <guid>https://main.d6cqd73wjarhj.amplifyapp.com/categories/aws/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
