@@ -5,7 +5,7 @@ date: 2022-08-29T13:37:24+09:00
 # authors: ["hiroshi"]
 description: "Disco Elysiumのプレイログ"
 categories:
-  - "Disco Elysium"
+  - "Disco-Elysium"
 tags:
   - "ADV"
   - "Point & Click"

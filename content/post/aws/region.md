@@ -7,7 +7,7 @@ categories:
   - "AWS"
 tags:
   - "AWS"
-  - "Amplify"
+  - "Amplifier"
 # menu: main # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params

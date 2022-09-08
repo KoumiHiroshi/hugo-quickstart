@@ -4,11 +4,10 @@ title: "港湾労働者のストライキ"
 date: 2022-09-04T09:40:55+09:00
 description: ""
 categories:
-  - "Disco Elysium"
+  - "Disco-Elysium"
 tags:
   - "ADV"
   - "Point & Click"
-  - "プレイ日記"
 # menu: main # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params

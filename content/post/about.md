@@ -2,6 +2,7 @@
 # Common-Defined params
 title: "About"
 _build:
+  render: always
   list: never
 # date: 2022-08-29T23:43:43+09:00
 # description: ""
