@@ -8,6 +8,7 @@ categories:
 tags:
   - "ADV"
   - "Point & Click"
+  - "プレイ日記"
 # menu: main # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
