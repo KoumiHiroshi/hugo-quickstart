@@ -7,8 +7,6 @@
 {{- $srcdir := path.Dir $src}}
 {{- $imageName := path.BaseName $src}}
 {{- $imageExt := path.Ext $src}}
-{{- $imageThumb := delimit (slice $imageName "-thumb." $imageExt) ""}}
-
 <a href="{{ $src }}">
     <img
         src="{{ path.Join $srcdir $thumbName ( print $imageName $thumbExt) }}"

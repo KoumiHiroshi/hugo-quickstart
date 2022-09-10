@@ -1,0 +1,5 @@
+<div>
+  <canvas {{ with .Get "id" }}id="{{.}}"{{ else }}id="canvas"{{end}}
+          {{ with .Get "width" }}width="{{.}}"{{else}}width="480"{{end}}
+          {{ with .Get "height" }}height="{{.}}"{{else}}height="320"{{end}}></canvas>
+</div>

@@ -31,13 +31,16 @@ widgets: # Enable sidebar widgets in given order per page
 コメントサービス[Disqus](https://disqus.com/ "Disqusホーム")を利用する。
 Disqusにアカウント登録してサイト用に設定するとShortnameがもらえるので、
 config.tomlのdisqusShortnameに入力。
+
 ```toml
 disqusShortname = "******"
 ```
 
 [Mainroad](https://github.com/Vimux/Mainroad/ "Mainroadリポジトリ")をテーマに利用しているので、
 パラメーターに
+
 ```yaml
 comments: true
 ```
+
 を設定しておけばコメント欄が表示される。

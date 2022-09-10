@@ -2,7 +2,7 @@
 # Common-Defined params
 title: "港湾労働者のストライキ"
 date: 2022-09-04T09:40:55+09:00
-description: ""
+description: "Disco Elysiumのプレイログ"
 categories:
   - "Disco-Elysium"
 tags:
@@ -27,6 +27,7 @@ widgets: # Enable sidebar widgets in given order per page
 ---
 
 ## 外に続く水門
+
 {{< thumbnail src="/img/disco-elysium/water-gate.webp" alt="外に続く水門" >}}
 
 町の外れを探索していると、水に沈んだ通路が見える。
@@ -37,6 +38,7 @@ widgets: # Enable sidebar widgets in given order per page
 なぜか水門を操作する役を任せられた。後で忘れずに来よう。
 
 ## ヨットの女
+
 {{< thumbnail src="/img/disco-elysium/yacht-woman.webp" alt="ヨットの女" >}}
 
 波止場にヨットが停まっていた。ヨットに乗った女は大企業の管理職で、
@@ -50,6 +52,7 @@ widgets: # Enable sidebar widgets in given order per page
 自分の中の直感がそう言っている。
 
 ## タバコを吸う男
+
 {{< thumbnail src="/img/disco-elysium/balcony-smoker.webp" alt="タバコを吸う男" >}}
 
 北側に進む道を探していると、死体がぶら下がっていた広場の奥の建物のバルコニーで
@@ -60,6 +63,7 @@ widgets: # Enable sidebar widgets in given order per page
 まだ何かを隠しているようだが、主人公は肉体派なので情報を引き出せるような知恵が足りない。
 
 ## スト破りの男
+
 {{< thumbnail src="/img/disco-elysium/strike-breaker.webp" alt="スト破りの男" >}}
 
 ストライキの現場である港湾事務所に着くと、入口の前には人だかりがぞろぞろと。
@@ -68,6 +72,7 @@ widgets: # Enable sidebar widgets in given order per page
 話を聞くと、この男は最近町の外からやってきた人間らしい。
 
 ## 事務所の入口を守る男
+
 {{< thumbnail src="/img/disco-elysium/switch-guard.webp" alt="とおせんぼの男" >}}
 
 このままでは事務所に入れない。事務所の入口を開けるスイッチを押しに行こうとすると、

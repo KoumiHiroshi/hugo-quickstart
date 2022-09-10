@@ -28,17 +28,20 @@ widgets: # Enable sidebar widgets in given order per page
 ---
 
 ## 起動
+
 {{< thumbnail src="/img/disco-elysium/main-menu.webp" alt="起動画面">}}
 
 久々に起動したらオプションから日本語を選べるようになっていた。
 
 ## キャラメイキング
+
 {{< thumbnail src="/img/disco-elysium/charactor-making.webp" alt="キャラクターメイキング" >}}
 
 キャラクター選択画面。プリセットが用意されているのは三種類。
 パラメータをカスタマイズして作ることもできるが、ここは分かりやすそうな「肉体派」を選ぶ。
 
 ## オープニング
+
 {{< thumbnail src="/img/disco-elysium/opening.webp" alt="オープニング" >}}
 
 真っ暗な意識の中で、このままずっと寝ていたい欲求に惹かれながら、謎の部屋で目を覚ます主人公。
