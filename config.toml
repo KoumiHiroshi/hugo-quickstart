@@ -15,7 +15,7 @@ avatar = "" # avatar image
 
 [Params]
   description = "ゲームとか趣味のものいろいろ" # Site description. Used in meta description
-  copyright = "フッター" # Footer copyright holder, otherwise will use site title
+  copyright = "Hiropon" # Footer copyright holder, otherwise will use site title
   opengraph = false # Enable OpenGraph if true
   schema = false # Enable Schema
   twitter_cards = true # Enable Twitter Cards if true
@@ -38,7 +38,7 @@ avatar = "" # avatar image
 [Params.logo]
   image = "" # Logo image. Path relative to "static"
   title = "無一物" # Logo title, otherwise will use site title
-  subtitle = "" # Logo subtitle
+  subtitle = "趣味の記録をまとめるサイト" # Logo subtitle
 
 [Params.thumbnail]
   visibility = ["list"] # Control thumbnail visibility
@@ -48,12 +48,24 @@ avatar = "" # avatar image
   list = "right"   # Configure layout for list pages
   single = "right" # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["search", "recent", "categories", "taglist"]
+  widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   categories_counter = true # Enable counter for each category in "Categories" widget
-  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+  tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.widgets.social]
+  # Enable parts of social widget
+#   facebook = "username"
+  twitter = "teetee3319"
+#   instagram = "username"
+#   linkedin = "username"
+#   telegram = "username"
+#   github = "username"
+#   gitlab = "username"
+#   bitbucket = "username"
+  email = "skima.fork@gmail.com"
 
 [menu]
 [[menu.main]]

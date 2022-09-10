@@ -42,7 +42,7 @@ canvas{
         background: #131516;
     }
     
-    h1, h2, h3, h4, h5, h6, p, body, .logo__title{
+    h1, h2, h3, h4, h5, h6, p, body, .logo__title, .logo__tagline{
         color: #e8e6e3
     }
     
