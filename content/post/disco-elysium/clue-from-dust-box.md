@@ -20,10 +20,7 @@ pager: true # Enable pager navigation (prev/next) for specific page
 toc: false # Enable Table of Contents for specific page
 mathjax: false # Enable MathJax for specific page
 sidebar: "right" # Enable sidebar (on the right side) per page
-widgets: # Enable sidebar widgets in given order per page
-  - "search"
-  - "recent"
-  - "taglist"
+# widgets: # Enable sidebar widgets in given order per page
 ---
 
 ## 広場のゴミ箱
