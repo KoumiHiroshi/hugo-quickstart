@@ -69,7 +69,7 @@ avatar = "" # avatar image
 
 [menu]
 [[menu.main]]
-  identifier = "disco-elysium"
+  identifier = "Disco Elysium"
   name = "Disco Elysium"
   url = "/categories/disco-elysium"
   weight = 10
