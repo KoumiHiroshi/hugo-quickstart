@@ -10,7 +10,7 @@ tags:
 # menu: main # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
-thumbnail: "img/html/html5-logo.png" # Thumbnail image
+thumbnail: "img/html-css/html5-logo.png" # Thumbnail image
 lead: "HTMLで使える図形描画APIのCanvasを使ってみる" # Lead text
 comments: true # Enable Disqus comments for specific page
 authorbox: true # Enable authorbox for specific page

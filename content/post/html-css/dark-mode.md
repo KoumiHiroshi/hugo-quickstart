@@ -10,7 +10,7 @@ tags:
 # menu: main # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
-thumbnail: "img/placeholder.png" # Thumbnail image
+thumbnail: "img/html-css/html5-logo.png" # Thumbnail image
 lead: "最近はダークモードに対応するシステムが増えている。ダークモードが設定されているときに、メディアクエリを利用して適用するスタイルを変えられるので、このブログをダークモードに対応させてみる。" # Lead text
 comments: true # Enable Disqus comments for specific page
 authorbox: true # Enable authorbox for specific page
