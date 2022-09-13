@@ -4,11 +4,11 @@ body, .header, .wrapper{
 
 code{
     background: #272822;
-    color: #f8f8f2;
+    color: #e8e6e3;
 }
 
 p {
-    margin: 0.25rem auto 0.5rem auto;
+    margin: 0.5rem auto 1rem auto;
     font-size: 1rem;
 }
 
@@ -18,6 +18,24 @@ h2 {
     border-left: solid;
     border-color: #678;
     background: #dde;
+}
+
+.btn{
+    color: #4a4a4a;
+    background: #f8f8f8;
+    filter: drop-shadow(0.2em 0.3em 0.25em #cdcde6);
+}
+
+kbd{
+    border-radius: 0.25em;
+    color: #4a4a4a;
+    background: #e8e6e3;
+    border: 1px solid #678;
+    filter: drop-shadow(1px 1px 1px #cdcde6);
+}
+
+svg.icon{
+    fill: currentColor;
 }
 
 p + a img, p + h2{
@@ -35,6 +53,17 @@ h2.list__title{
 
 canvas{
     width: 100%;
+}
+
+div.primary{
+    flex: 4 1 30em;
+}
+aside.sidebar{
+    flex: 1 0 10em;
+}
+
+.container{
+    max-width: 1440px;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -66,4 +95,20 @@ canvas{
         border: 1px solid #678
     }
 
+    .btn{
+        color:#efefef;
+        background: #2a2a2a;
+        filter:drop-shadow(0.2em 0.2em 0.3em #000e11)
     }
+
+    .content a, .warning a, .authorbox__description a{
+        color:rgb(108, 167, 225)   
+    }
+
+    kbd{
+        color: #efefef;
+        background: #2a2a2a;
+        border: 1px solid #4a4a4a;
+        filter: drop-shadow(1px 1px 1px #000e11);
+    }
+}

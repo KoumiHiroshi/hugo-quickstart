@@ -1,4 +1,5 @@
 ---
+draft: true
 # Common-Defined params
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
