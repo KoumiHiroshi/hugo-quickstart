@@ -20,10 +20,15 @@ h2 {
     background: #dde;
 }
 
+h3 {
+    margin: 1rem auto 0.25rem auto;
+    padding: 0.4em 0 0.4em 1em;
+}
+
 .btn{
     color: #4a4a4a;
     background: #f8f8f8;
-    filter: drop-shadow(0.2em 0.3em 0.25em #cdcde6);
+    filter: drop-shadow(0.1em 0.1em 0.2em #cdcde6);
 }
 
 kbd{
@@ -51,6 +56,10 @@ h2.list__title{
     border-left: none;
 }
 
+figure>figcaption{
+    text-align: center;
+}
+
 canvas{
     width: 100%;
 }
@@ -64,6 +73,14 @@ aside.sidebar{
 
 .container{
     max-width: 1440px;
+}
+
+svg .color-mode{
+    fill: #131516;
+}
+
+svg line.color-mode{
+    stroke: #131516;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -98,7 +115,7 @@ aside.sidebar{
     .btn{
         color:#efefef;
         background: #2a2a2a;
-        filter:drop-shadow(0.2em 0.2em 0.3em #000e11)
+        filter:drop-shadow(0.1em 0.1em 0.2em #000e11)
     }
 
     .content a, .warning a, .authorbox__description a{
@@ -111,4 +128,13 @@ aside.sidebar{
         border: 1px solid #4a4a4a;
         filter: drop-shadow(1px 1px 1px #000e11);
     }
+
+    svg .color-mode{
+        fill: #e8e6e3;
+    }
+
+    svg line.color-mode{
+        stroke: #e8e6e3;
+    }
+
 }

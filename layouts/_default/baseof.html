@@ -43,6 +43,16 @@
 		{{ template "_internal/google_analytics_async.html" . }}
 		{{- end }}
 	{{- end }}
+
+	{{- partial "mathjax.html" . -}}
+	{{- partial "chartjs.html" . -}}
+	
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4653058673518928"
+	crossorigin="anonymous"></script>
+
+	{{- partial "d3.html" . -}}
+	{{- partial "numjs.html" . -}}
+
 </head>
 <body class="body">
 	<div class="container container--outer">
@@ -65,6 +75,5 @@
 {{ range .Site.Params.customJS -}}
 <script src="{{ . | relURL }}"></script>
 {{- end }}
-{{- partial "mathjax.html" . -}}
 </body>
 </html>

@@ -7,6 +7,7 @@ categories:
   - "HTML/CSS"
 tags:
   - "Dark Mode"
+  - "SVG"
 # menu: main # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
