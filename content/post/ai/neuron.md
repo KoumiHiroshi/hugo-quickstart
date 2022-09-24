@@ -10,7 +10,7 @@ tags:
 # menu: main # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
-thumbnail: "img/placeholder.png" # Thumbnail image
+thumbnail: "img/ai/neuron.svg" # Thumbnail image
 lead: "AIの基礎的な仕組みを調べる" # Lead text
 comments: true # Enable Disqus comments for specific page
 authorbox: true # Enable authorbox for specific page
