@@ -29,7 +29,7 @@ avatar = "" # avatar image
   mathjax = false # Enable MathJax
   mathjaxPath = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/mml-svg.js" # Specify MathJax path
   mathjaxConfig = "" # Specify MathJax config
-  customCSS = ["css/custom.css?4"] # Include custom CSS files
+  customCSS = ["css/custom.css?5"] # Include custom CSS files
   # customJS = ["js/custom.js"] # Include custom JS files
 
 [Params.style.vars]

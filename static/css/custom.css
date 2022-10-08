@@ -83,12 +83,27 @@ svg line.color-mode{
     stroke: #131516;
 }
 
+svg #background>feFlood{
+    flood-color: #f0f5f3df;
+}
+
+button{
+    padding: 0.5em 1em;
+    margin: 0.5em 1em;
+}
+
+.parambar label{margin:auto 0.5em;display:inline-block;width: 2em;text-align: center;}
+fieldset>div{display:flex}
+fieldset>div>label{flex: 0 0 3em}
+fieldset>div>input[type="number"]{flex: 1 0 5em;width:100%}
+fieldset>div>input[type="range"]{flex: 4 1 20em;width:100%}
+
 @media (prefers-color-scheme: dark) {
-    body, .header, .wrapper{
+    body, .header, .wrapper, input{
         background: #131516;
     }
     
-    h1, h2, h3, h4, h5, h6, p, body, .logo__title, .logo__tagline{
+    h1, h2, h3, h4, h5, h6, p, body, .logo__title, .logo__tagline, input{
         color: #e8e6e3
     }
     
@@ -137,4 +152,7 @@ svg line.color-mode{
         stroke: #e8e6e3;
     }
 
+    svg #background>feFlood{
+        flood-color: #131516df;
+    }
 }

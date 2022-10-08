@@ -106,27 +106,27 @@ sidebar: "right" # Enable sidebar (on the right side) per page
 となる。
 
 次のように
-<math><mfenced open="" close=""><mi mathvariant="bold-script">x</mi><mi mathvariant="bold-script">m</mi></math>
+<math><mfenced open="" close=""><mi mathvariant="bold-italic">x</mi><mi mathvariant="bold-italic">m</mi></math>
 を定義すると
 
-<math display="block"><mi mathvariant="bold-script">x</mi><mo>=</mo>
+<math display="block"><mi mathvariant="bold-italic">x</mi><mo>=</mo>
 <mfenced><mtable>
 	<mtr><mtd><msub><mi>x</mi><mn>1</mn></msub></mtd></mtr>
 	<mtr><mtd><mi>&vellip;</mi></mtd></mtr>
 	<mtr><mtd><msub><mi>x</mi><mi>n</mi></msub></mtd></mtr></mtable></mfenced></math>
-<math display="block"><mi mathvariant="bold-script">m</mi><mo>=</mo>
+<math display="block"><mi mathvariant="bold-italic">m</mi><mo>=</mo>
 <mfenced><mtable>
 	<mtr>
 		<mtd><msub><mi>m</mi><mn>1</mn></msub></mtd>
 		<mtd><mi>&hellip;</mi></mtd>
     <mtd><msub><mi>m</mi><mi>n</mi></msub></mtd></mtr></mtable></mfenced></math>
 
-<math><mi mathvariant="bold-script">m</mi><mo>&it;</mo><mi mathvariant="bold-script">x</mi></math>を行列の積のように表せる。
+<math><mi mathvariant="bold-italic">m</mi><mo>&it;</mo><mi mathvariant="bold-italic">x</mi></math>を行列の積のように表せる。
 
 <math display="block">
 <mtable columnalign="right center left" displaystyle="true">
 	<mtr>
-		<mtd><mi mathvariant="bold-script">m</mi><mo>&it;</mo><mi mathvariant="bold-script">x</mi></mtd>
+		<mtd><mi mathvariant="bold-italic">m</mi><mo>&it;</mo><mi mathvariant="bold-italic">x</mi></mtd>
 		<mtd><mo>=</mo></mtd>
 		<mtd>
 			<msub><mi>m</mi><mn>1</mn></msub><mo>&it;</mo><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo>
@@ -148,7 +148,7 @@ sidebar: "right" # Enable sidebar (on the right side) per page
 <math display="block">
   <mi>y</mi><mo>=</mo>
   <mi>f</mi><mo>&af;</mo><mo>(</mo>
-  <mi mathvariant="bold-script">m</mi><mo>&it;</mo><mi mathvariant="bold-script">x</mi>
+  <mi mathvariant="bold-italic">m</mi><mo>&it;</mo><mi mathvariant="bold-italic">x</mi>
   <mo>+</mo><mi>b</mi><mo>)</mo></math>
 
 ## 活性化関数
