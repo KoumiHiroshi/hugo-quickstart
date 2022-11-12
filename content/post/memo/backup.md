@@ -12,7 +12,7 @@ tags:
 # menu: main # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
-thumbnail: "img/placeholder.png" # Thumbnail image
+thumbnail: "/img/memo/floppy.svg" # Thumbnail image
 lead: "RAIDはバックアップとしては使えないという話を聞いたので、バックアップのとりかたを調べてみる。" # Lead text
 comments: true # Enable Disqus comments for specific page
 authorbox: true # Enable authorbox for specific page
@@ -149,7 +149,7 @@ Windows環境なのでタスクスケジューラを使う。
 [![タスクスケジューラの実行内容](/img/memo/task-scheduler-operation.png)](/img/memo/task-scheduler-operation.png)
 
 「操作」タブ→「新規」で実行する内容を指定する。
-プログラム欄は`wsl`、引数に`--cd /mnt/e/backup/ ./backup.sh /mnt/c/User/username/source/repos/`を
+プログラム欄は`wsl`、引数に`--cd /mnt/e/backup/ ./backup.sh /mnt/c/Users/username/source/repos/`を
 指定する。（`--cd`で作業ディレクトリを指定している）
 
 あとは「トリガー」タブで起動するスケジュールを決めれば好きなタイミングでバックアップを取ってくれる。
