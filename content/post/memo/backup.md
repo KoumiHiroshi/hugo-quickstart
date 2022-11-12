@@ -1,5 +1,4 @@
 ---
-draft: true
 # Common-Defined params
 title: "Win11/10でRsyncを使った差分バックアップ"
 date: 2022-11-12T19:36:11+09:00
